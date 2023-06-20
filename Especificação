@@ -1,0 +1,1 @@
+Esse código foi feito no ServiceNow para quando tiver um click no botão de "Resolver" na tabela de "sc_req_item", irá alterar o estado do chamado e obrigar alguns campos serem obrigatórios o preenchimento.
